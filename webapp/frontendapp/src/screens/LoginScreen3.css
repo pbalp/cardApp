@@ -1,0 +1,60 @@
+.mainBody {
+    flex: 1;
+    justify-content: center;
+    background-color: #307ecc;
+    align-content: center;
+}
+    
+.SectionStyle {
+    flex: row;
+    height: 40;
+    margin-top: 20;
+    margin-left: 35;
+    margin-right: 35;
+    margin: 10;
+}
+
+.buttonStyle {
+    background-color: #7DE24E;
+    border-width: 0;
+    color: #FFFFFF;
+    border-color: #7DE24E;
+    height: 40;
+    align-items: center;
+    border-radius: 30;
+    margin-left: 35;
+    margin-right: 35;
+    margin-top: 20;
+    margin-bottom: 25;
+}
+
+.buttonTextStyle {
+    color: #FFFFFF;
+    padding-top: 10;
+    font-size: 16;
+}
+    
+.inputStyle {
+      flex: 1;
+      color: white;
+      padding-left: 15;
+      padding-right: 15;
+      border-width: 1;
+      border-radius: 30;
+      border-color: #dadae8;
+}
+
+.registerTextStyle {
+      color: #FFFFFF;
+      text-align: center;
+      font-weight: bold;
+      font-size: 14;
+      align-self: center;
+      padding: 10;
+}
+    
+.errorTextStyle {
+      color: red;
+      text-align: center;
+      font-size: 14;
+}
